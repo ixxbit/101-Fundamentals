@@ -1,5 +1,5 @@
 # OVERVIEW
-## **I.** Packaging and Unpackaging Python Projects
+## ** I. ** Packaging and Unpackaging Python Projects
 
 #### A. Create the following directory using this structure:
 > ```bash
