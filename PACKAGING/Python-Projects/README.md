@@ -1,6 +1,5 @@
 # OVERVIEW
-## 
-** I. ** Packaging and Unpackaging Python Projects
+***I.*** Packaging and Unpackaging Python Projects
 
 #### A. Create the following directory using this structure:
 > ```bash
@@ -12,8 +11,8 @@
 #### B. ADD the required files which are needed for distribution of your project
 ##### Directory Structure
 > ```bash
->	**my_proj_package/**
->		**my_app_pkg/**
+>	***my_proj_package/***
+>		***my_app_pkg***
 >			__init__.py
 >	_setup.py_
 >	_LICENSE_
